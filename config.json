@@ -1,0 +1,22 @@
+{
+  "features": {
+    "aimbot_enabled": true,
+    "esp_enabled": true,
+    "radar_enabled": true,
+    "enemy_pull_enabled": false,
+    "teleport_enabled": false,
+    "fly_enabled": false,
+    "aim_kill_enabled": false,
+    "auto_fire_enabled": false
+  },
+  "maintenance": {
+    "active": false,
+    "message": "Server maintenance in progress. Please try again later."
+  },
+  "announcement": {
+    "active": true,
+    "title": "Welcome to Haris X Cheats",
+    "message": "New update available! Check Telegram @Haris_x_cheats"
+  },
+  "version": "2.1.0"
+}
