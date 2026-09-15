@@ -14,7 +14,7 @@
     "message": "Server Under Maintenance\n\nHaris X Cheats is being updated.\n\nBack in 1-2 hours.\n\nJoin @HarisXCheats for updates."
   },
   "announcement": {
-    "active": true,
+    "active": false,
     "title": "Welcome to Haris X Cheats",
     "message": "New update available! Check Telegram @HarisXCheats"
   },
