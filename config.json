@@ -10,9 +10,9 @@
     "auto_fire_enabled": false
   },
   "maintenance": {
-    "active": false,
-    "message": "Server maintenance in progress. Please try again later."
-  },
+  "active": true,
+  "message": "Server Under Maintenance\n\nBack in 1 hour."
+}
   "announcement": {
     "active": true,
     "title": "Welcome to Haris X Cheats",
