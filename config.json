@@ -3,14 +3,14 @@
     "aimbot_enabled": true,
     "esp_enabled": true,
     "radar_enabled": true,
-    "enemy_pull_enabled": false,
+    "enemy_pull_enabled": true,
     "teleport_enabled": false,
     "fly_enabled": false,
     "aim_kill_enabled": false,
     "auto_fire_enabled": false
   },
   "maintenance": {
-    "active": true,
+    "active": false,
     "message": "Server Under Maintenance\n\nHaris X Cheats is being updated.\n\nBack in 1-2 hours.\n\nJoin @HarisXCheats for updates."
   },
   "announcement": {
