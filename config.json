@@ -1,6 +1,6 @@
 {
     "maintenance": {
-        "active": true,
+        "active": false,
         "message": "Server is under maintenance. Please try again later."
     },
     "announcement": {
