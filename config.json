@@ -1,7 +1,66 @@
 {
+    "maintenance": {
+        "active": false,
+        "message": "Server maintenance chal rahi hai. 30 minute baad try karein.",
+        "end_time": "2026-09-18 18:00:00"
+    },
     "announcement": {
-        "active": true,
-        "title": "New Update Available",
-        "message": "New features added:\n• Improved ESP\n• Better Aimbot\n\nJoin Telegram for updates!"
+        "active": false,
+        "title": "Welcome to HarisX Cheats",
+        "message": "New update available! Join Telegram for latest version.",
+        "button_text": "JOIN TELEGRAM",
+        "button_url": "https://t.me/HarisXCheats"
+    },
+    "force_update": {
+        "active": false,
+        "min_version": "2.0.0",
+        "download_url": "https://t.me/HarisXCheats"
+    },
+    "panel": {
+        "title": "HARIS X CHEATS",
+        "subtitle": "PREMIUM MOD MENU",
+        "version": "2.0.0",
+        "show_watermark": true,
+        "show_online_status": true
+    },
+    "features": {
+        "aimbot": true,
+        "silent_aim": true,
+        "aim_lock": true,
+        "aim_magnet": true,
+        "cheat_aim": true,
+        "fov_aim": true,
+        "esp": true,
+        "esp_line": true,
+        "esp_box": true,
+        "esp_name": true,
+        "esp_health": true,
+        "skeleton": true,
+        "radar": true,
+        "distance": true,
+        "speed_hack": true,
+        "down_player": true,
+        "underground_kill": true,
+        "spin_bot": true,
+        "fly_hack": false,
+        "teleport": false,
+        "jump_hack": false,
+        "enemy_pull": false,
+        "theme_colors": true
+    },
+    "login": {
+        "required": true,
+        "key_expiry_days": 365,
+        "device_limit": 0,
+        "max_devices": 999
+    },
+    "urls": {
+        "telegram": "https://t.me/HarisXCheats",
+        "logo": "https://i.postimg.cc/QdmmLBsH/ic-floating.jpg",
+        "update": "https://t.me/HarisXCheats"
+    },
+    "colors": {
+        "default_theme": 0,
+        "allow_custom": true
     }
 }
