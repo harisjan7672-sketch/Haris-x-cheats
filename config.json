@@ -6,7 +6,7 @@
         "end_time": "2026-09-18 18:00:00"
     },
     "announcement": {
-        "active": false,
+        "active": true,
         "title": "📢 New Update Available",
         "message": "New features added:\n\n• Improved ESP\n• Better Aimbot\n• 30 theme colors\n• Bug fixes\n\nJoin Telegram for updates!",
         "button_text": "JOIN TELEGRAM",
