@@ -1,6 +1,39 @@
 {
+    "version": "2.1.0",
     "maintenance": {
+        "active": false,
+        "message": "🛠️ Server Maintenance\n\nWe are upgrading our servers.\n\nPlease try again in 30 minutes.\n\nThank you for your patience.",
+        "end_time": "2026-09-18 18:00:00"
+    },
+    "announcement": {
         "active": true,
-        "message": "Server maintenance chal rahi hai. 30 minute baad try karein."
+        "title": "📢 New Update Available",
+        "message": "New features added:\n\n• Improved ESP\n• Better Aimbot\n• 30 theme colors\n• Bug fixes\n\nJoin Telegram for updates!",
+        "button_text": "JOIN TELEGRAM",
+        "button_url": "https://t.me/HarisXCheats"
+    },
+    "force_update": {
+        "active": false,
+        "min_version": "2.0.0",
+        "download_url": "https://t.me/HarisXCheats"
+    },
+    "features": {
+        "esp": true,
+        "aimbot": true,
+        "silent_aim": true,
+        "speed_hack": true,
+        "fly_hack": false,
+        "teleport": false,
+        "jump_hack": false,
+        "spin_bot": true,
+        "radar": true,
+        "skeleton": true,
+        "enemy_pull": false,
+        "underground_kill": false
+    },
+    "settings": {
+        "key_expiry_days": 365,
+        "device_limit": 0,
+        "max_devices": 999
     }
 }
