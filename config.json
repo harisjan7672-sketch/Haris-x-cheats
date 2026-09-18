@@ -1,6 +1,6 @@
 {
     "maintenance": {
-        "active": false,
+        "active": true,
         "message": "Server maintenance chal rahi hai. 30 minute baad try karein.",
         "end_time": "2026-09-18 18:00:00"
     },
