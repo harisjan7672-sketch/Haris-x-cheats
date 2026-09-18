@@ -1,8 +1,8 @@
 {
     "version": "2.1.0",
     "maintenance": {
-        "active": false,
-        "message": "🛠️ Server Maintenance\n\nWe are upgrading our servers.\n\nPlease try again in 30 minutes.\n\nThank you for your patience.",
+        "active": true,
+        "message": "🛠️ Server Maintenance\n\nWe are upgrading our servers.\n\nPlease try again in 1 day .\n\nThank you for your patience.",
         "end_time": "2026-09-18 18:00:00"
     },
     "announcement": {
